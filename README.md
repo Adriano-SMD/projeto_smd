@@ -10,6 +10,7 @@ A proposta se alinha à estratégia de praticar a integração do desenvolviment
 
 Quando finalizado, o projeto do ambiente interativo do SMD será compartilhado para ser livremente modificado pela comunidade acadêmica.
 
+
 ## Observaçõees
 
 Este repositório corresposnde a um projeto em Unreal 4.26. 
