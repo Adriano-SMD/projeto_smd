@@ -9,3 +9,9 @@ Este projeto é um meio para o estudo de possibilidades de navegação e interat
 A proposta se alinha à estratégia de praticar a integração do desenvolvimento artístico de conteúdos associado à programação de sistemas interativos, pensando não apenas em termos de equipes multidisciplinares, mas de profissionais multidisciplinares — perfil natural do egresso do SMD. Nesse sentido, esta ação se alinha à proposta mais ampla do Grupo de Pesquisa Arte + Comp, ao qual o Grupo de Estudos em Unreal está associado.
 
 Quando finalizado, o projeto do ambiente interativo do SMD será compartilhado para ser livremente modificado pela comunidade acadêmica.
+
+## Observaçõees
+
+Este repositório corresposnde a um projeto em Unreal 4.26. 
+
+A pasta "RawContent" não faz parte do projeto Unreal, apenas contém referências e arquivos externos de produção.
