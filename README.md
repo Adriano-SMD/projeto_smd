@@ -2,7 +2,7 @@
 
 ## Um projeto acadêmico
 
-Versão interativa do prédio do Bloco Didático do Instituto Universidade Virtual da UFC, em desenvolvimento no Grupo de Estudos em Unreal, coordenado pelo prof. Adriano Oliveira.
+Versão interativa do prédio do Bloco Didático do Instituto Universidade Virtual da Universidade Federal do Ceará, em desenvolvimento no Grupo de Estudos em Unreal, coordenado pelo prof. Adriano Oliveira. A edificação está localizada em no Campus do Pici, em Fortaleza - Ceará.
 
 Este projeto é um meio para o estudo de possibilidades de navegação e interatividade em um ambiente virtual recriado de modo realista, empregando tecnologias de ponta na geração de imagens em tempo real. A modelagem do prédio está sendo realizada no software livre Blender com base em informações arquitetônicas e fotos do local. O ambiente interativo está sendo implementado no motor gráfico gratuito Unreal, empregando programação visual por Blueprints.
 
