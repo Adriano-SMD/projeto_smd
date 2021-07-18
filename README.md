@@ -16,3 +16,10 @@ Quando finalizado, o projeto do ambiente interativo do SMD será compartilhado p
 Este repositório corresposnde a um projeto em Unreal 4.26. 
 
 A pasta "RawContent" não faz parte do projeto Unreal, apenas contém referências e arquivos externos de produção.
+
+## Como usar Git no Unreal
+
+Estamos seguindo as informações deste vídeo:
+
+
+https://youtu.be/F5Yn7y9Ib_I
